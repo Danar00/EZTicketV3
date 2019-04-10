@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db232c</color>
+    <color name="colorPrimaryDark">#a32b32</color>
+    <color name="colorAccent">#ffc442</color>
+    <color name="white">#eaeaea</color>
+    <color name="time">#999999</color>
+    <color name="title">#070707</color>
+
+    <color name="shadowSecond">#bfbfbf</color>
+    <color name="shadowFirst">#767676</color>
+    <color name="shadow">#bfbfbf</color>
+    <color name="shadowDarker">#767676</color>
+</resources>
